@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - Enemy
+  - CheckPoints
+  - LEnemy
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ground
+  - 
+  - Enemy
+  - Player
+  - EnemyL
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background_0
+    uniqueID: 2168741435
+    locked: 0
+  - name: Background_1
+    uniqueID: 2080365771
+    locked: 0
+  - name: Ground
+    uniqueID: 120632879
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
